@@ -184,6 +184,10 @@
 
 Сайт открылся 8 июня 2012 года.
 
+## Когда закрылся сайт GаmeMiner.ru?
+
+Сайт закрылся 31 октября 2016 года.
+
 
 **Авторы FAQ:**  
 Администрация Gameminer.ru, Gis_Nohus, Haoose, Liveform, LordConqueror, RAMJOS, Pavel  
